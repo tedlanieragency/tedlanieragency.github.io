@@ -169,7 +169,7 @@
               "color": "#767676"
             },
             ".pie_progress__number": {
-              "text-align": "center !important"
+              "text-align": "center"
             },
             ".card-title": {
               "margin-bottom": "0"
